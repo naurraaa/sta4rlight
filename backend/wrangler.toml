@@ -1,0 +1,9 @@
+name = "konser-ticket-app"
+type = "javascript"
+compatibility_date = "2025-06-14"
+account_id = "24f80977"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "st4rlight"
+database_id = "24f80977-c5d3-4b4d-a6f4-02af441c953b"
